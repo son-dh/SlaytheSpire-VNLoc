@@ -1,0 +1,192 @@
+{
+  "Crowbot": {
+    "NAMES": [
+      "Quạ máy"
+    ],
+    "TEXT": [
+      "BEEP BOOP"
+    ]
+  },
+  "Defect": {
+    "NAMES": [
+      "Khiếm Khuyết"
+    ],
+    "TEXT": [
+      "Người máy chiến đấu đã trở nên tự ý thức. NL Công nghệ cổ xưa cho phép thao túng các loại Ngọc."
+    ]
+  },
+  "Ironclad": {
+    "NAMES": [
+      "Thiết Giáp"
+    ],
+    "TEXT": [
+      "Người sống sót cuối cùng trong đội lính Thiết Giáp. NL Đánh đổi linh hồn của mình để điều khiển năng lượng hắc ám."
+    ]
+  },
+  "Merchant": {
+    "NAMES": [
+      "Tiếp tục",
+      "~Chào~ ~mừng!~"
+    ],
+    "TEXT": [
+      "Hi! NL Mua gì đi! NL Mua mua mua đi!",
+      "Tôi thích kiểu tóc của bạn",
+      "Bạn có thời gian không?",
+      "Bạn là người yêu chó hay yêu mèo?",
+      "Trông bạn có vẻ ~nguy~ ~hiểm,~ NL hehe...",
+      "Cứ chậm rãi thôi... NL ..... NL ... hoặc không",
+      "Bạn thích cái thảm này không? NL Không bán đâu nhé",
+      "Hãy ủng hộ kinh doanh nhỏ lẻ!",
+      "Đeo mặt nạ ngầu lắm, tin tôi đi!",
+      "Hmm... NL ...hmm... NL Ồ!",
+      "Hãy ở lại nghe tôi nói đã!",
+      "Đi một mình nguy hiểm lắm! Hãy đưa hết vàng cho tôi!",
+      "Mua gì đi",
+      "~*NGÁP*~",
+      "Tôi thích vàng.",
+      "Tôi thích nhất màu xanh lam. NL Bạn thì sao?"
+    ],
+    "OPTIONS": [
+      "Sao tôi lại ở đây á? NL Tôi cũng chịu.",
+      "Cơ hội mua đồ cuối cùng đấy! NL ~*nháy mắt*~ ~*nháy mắt*~",
+      "..... NL .... NL .........",
+      "Tôi là người yêu mèo.",
+      "Đừng vội. NL Đừng vội.",
+      "Chẳng phải thật @thú@ @vị@ sao",
+      "Tôi cũng từng giống bạn.",
+      "Đi lên à?"
+    ]
+  },
+  "Neow Event": {
+    "NAMES": [
+      "Neow"
+    ],
+    "TEXT": [
+      "~Chào~ ~mừng...~ NL ~Ta..~ ~là~ ~Neow...~",
+      "~Chào...~ NL ~lần~ ~nữa..~",
+      "~Chào~ ~mừng...~",
+      "~Thử~ NL ~lại~ ~à...?~",
+      "~Hãy~ ~đối~ ~mặt~ ~với~ ~trùm...~ NL ~để~ ~nhận~ ~thêm..~ ~phúc~ ~lành...~",
+      "~Ít~ ~nhất...~ ~hãy~ ~đối~ ~đầu~ NL ~con~ ~trùm~ ~đầu~ ~tiên...~",
+      "~Ta~ ~đã~ ~mang~ ~ngươi~ ~trở~ ~lại...~",
+      "~Chọn~ ~đi...~",
+      "~Chấp~ ~thuận...~",
+      "~Phạt...~ NL ~..thưởng...~",
+      "~Đã~ ~đến~ ~lúc~ ~trải~ ~qua~ NL ~THỬ~ ~THÁCH...~",
+      "Phần thưởng",
+      "~Hãy~ ~đi~ ~tiếp~ ~thôi...~",
+      "~Mọi~ ~thứ~ ~sẽ~ ~chỉ~ ~khó~ ~khăn~ ~hơn~ ~thôi...~",
+      "~Ấn~ ~tượng~ ~đấy...~ ~nữa~ ~đi...~",
+      "Bị nguyền!",
+      "Phân tán!",
+      "Biến đổi!"
+    ],
+    "OPTIONS": [
+      "[Tiếp tục]",
+      "[Nói chuyện]",
+      "[Bỏ qua]",
+      "[Bỏ đi]",
+      "Chọn 10 lá để thêm vào bộ bài của bạn."
+    ]
+  },
+  "Neow Reward": {
+    "NAMES": [],
+    "TEXT": [
+      "[ #gChọn #gmột #glá #gbài #gđể #gnhận ]",
+      "[ #gNhận #gmột #glá #gbài #gHiếm #gngẫu #gnhiên ]",
+      "[ #gHủy #gmột #glá #gkhỏi #gbộ #gbài #gcủa #gbạn ]",
+      "[ #gNâng #gcấp #gmột #glá #gbài ]",
+      "[ #gBiến #gđổi #gmột #glá #gbài ]",
+      "[ #gNhận #g3 #gbình #gthuốc #gngẫu #gnhiên ]",
+      "[ #gNhận #gmột #gCổ #gvật #gthường #gngẫu #gnhiên ]",
+      "[ #gHP #gtối #gđa #g+",
+      "[ #gNhận #g",
+      " #gVàng ]",
+      "#gHủy #g2 #glá #gbài ]",
+      "#gNhận #gmột #gCổ #gvật #ghiếm #gngẫu #gnhiên ]",
+      "#gChọn #gmột #glá #gbài #gHiếm #gđể #gnhận ]",
+      "#gNhận #g",
+      " #gVàng ]",
+      "#gBiến #gđổi #g2 #glá #gbài ]",
+      "#gHP #gtối #gđa #g+",
+      "[ #rMất #r",
+      " #rHP #rtối #rđa ",
+      "[ #rMất #rtất #rcả #rVàng ",
+      "[ #rNhận #rmột #rlá #rNguyền ",
+      "[ #rLấy #r",
+      "Chọn một lá bài",
+      "Chọn một lá bài để hủy",
+      "Chọn 2 lá bài để hủy",
+      "Chọn một lá bài để biến đổi",
+      "Chọn 2 lá bài để biến đổi",
+      "Chọn một lá bài để nâng cấp",
+      "[ #gQuân #gđịch #gtrong #gba #gtrận #gđấu #gtiếp #gtheo #gcòn #g1 #gHP ]",
+      " #rsát #rthương",
+      "[ #gNhận #gmột #gLá #gbài #gkhông #gmàu #gkhông #gthông #gdụng #gngẫu #gnhiên ]",
+      "#gNhận #g2 #glá #gbài #gkhông #gmàu #gngẫu #gnhiên ]"
+    ],
+    "UNIQUE_REWARDS": [
+      "[ #rMất #rCổ #rvật #rkhởi #rđầu #gNhận #gmột #gCổ #gvật #gcủa #gtrùm #gngẫu #gnhiên ]"
+    ]
+  },
+  "Shop Screen": {
+    "NAMES": [
+      "~Xin~ ~chào~ NL ~chào~ ~mừng!~",
+      "Này này, NL bạn cần NL thêm #rVàng.",
+      "Này bạn, bạn không có #rTiền!",
+      "Hết tiền à?",
+      "Bạn không đủ #rVàng.",
+      "Bạn không đủ tiền trả đâu.",
+      "Tôi không làm từ thiện nhé.",
+      "~Cảảảm~ ~ơơơn~",
+      "Lại bán được hàng rồi... NL hohoho! NL Cha - @Ching!@",
+      "@BÁN!@",
+      "Không hoàn tiền.",
+      "Chúc một ngày tốt lành.",
+      "Rời bỏ",
+      "Chọn một lá để hủy khỏi bộ bài của bạn."
+    ],
+    "TEXT": [
+      "Hi! NL Mua gì đi! NL Mua mua mua đi!",
+      "Tôi thích kiểu tóc của bạn",
+      "Bạn có thời gian không?",
+      "Bạn là người yêu chó hay yêu mèo?",
+      "Trông bạn có vẻ ~nguy~ ~hiểm,~ NL hehe...",
+      "Cứ chậm rãi thôi... NL ..... NL ... hoặc không",
+      "Bạn thích cái thảm này không? NL Không bán đâu nhé",
+      "Hãy ủng hộ kinh doanh nhỏ lẻ!",
+      "Đeo mặt nạ ngầu lắm, tin tôi đi!",
+      "Bạn có thấy chuột giao hàng của tôi không?",
+      "Hãy ở lại nghe tôi nói đã!",
+      "Đi một mình nguy hiểm lắm! Hãy đưa hết vàng cho tôi!",
+      "Mua gì đi",
+      "~*NGÁP*~",
+      "Tôi thích vàng.",
+      "Tôi thích nhất màu xanh lam. NL Bạn thì sao?"
+    ]
+  },
+  "Silent": {
+    "NAMES": [
+      "Câm Lặng"
+    ],
+    "TEXT": [
+      "Nữ thợ săn chết chóc đến từ vùng đất sương mù. NL Tiêu diệt kẻ thù bằng dao găm và độc dược."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Giờ... sao..? NL ..đã xong... rồi ư....?",
+      "...Tháp Xoáy đã ngủ yên.....",
+      "..và ta...... cũng sẽ... NL ....ngủ......"
+    ]
+  },
+  "Watcher": {
+    "NAMES": [
+      "Vọng Giả"
+    ],
+    "TEXT": [
+      "Một tu hành giả mù lòa đến để \"thăm dò\" Tháp Xoáy. NL Bậc thầy về Phật Thế."
+    ]
+  }
+}

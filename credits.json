@@ -1,0 +1,396 @@
+{
+  "ANIMATION": {
+    "HEADER": "Chuyển động nhân vật",
+    "NAMES": [
+      "Julio Duque Montero",
+      "Jon Sandler"
+    ]
+  },
+  "DEV": {
+    "HEADER": "Phát triển & Thiết kế",
+    "NAMES": [
+      "Anthony Giovannetti",
+      "Casey Yano"
+    ]
+  },
+  "ILLUSTRATION": {
+    "HEADER": "Minh họa Hình nền & Quảng bá",
+    "NAMES": [
+      "Bruce Brenneise"
+    ]
+  },
+  "LOC_ADDITIONAL": {
+    "HEADER": "Dịch bổ sung",
+    "NAMES": [
+      "MoGi Group"
+    ]
+  },
+  "LOC_CAT": {
+    "HEADER": "Bản địa hoá tiếng Catalan",
+    "NAMES": []
+  },
+  "LOC_DEU": {
+    "HEADER": "Bản địa hoá tiếng Đức",
+    "NAMES": [
+      "Joshua \"Joshipon\" Wiegand",
+      "Dustin \"Skrelpoid\" Kristen",
+      "Christoph \"Deknud\" Hartmann",
+      "Jonas Trodler",
+      "Hongkong Koma",
+      "Moly",
+      "koykoy13",
+      "Magnus Upmann"
+    ]
+  },
+  "LOC_DUT": {
+    "HEADER": "Bản địa hoá tiếng Hà Lan",
+    "NAMES": [
+      "Thủ lĩnh Gremlin:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlin:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
+  "LOC_EPO": {
+    "HEADER": "Bản địa hoá Quốc Tế Ngữ",
+    "NAMES": [
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
+    ]
+  },
+  "LOC_FRA": {
+    "HEADER": "Bản địa hóa tiếng Pháp",
+    "NAMES": [
+      "Xavier \"Blagatt\" Dupont",
+      "Malik \"Devexia\" Leonarski",
+      "Thomas \"Elgerine\" Ferry",
+      "Vincent \"Henip\" Bartoux",
+      "Alexandre \"Judgy\" Gaubert",
+      "Vincent \"MissingNoShiny\" Larcin",
+      "Nicky \"Qazahar\" Dehout",
+      "Julien \"RoPeTTe\" Ropero",
+      "Hugo \"Tagadda\" Vurpillot",
+      "Corentin \"Tchus\" Monfort",
+      "Zachary \"WyvernZed\" Janisse"
+    ]
+  },
+  "LOC_GRE": {
+    "HEADER": "Bản địa hóa tiếng Hy Lạp",
+    "NAMES": [
+      "Kotsos \"Iglor\" Diamond"
+    ]
+  },
+  "LOC_IND": {
+    "HEADER": "Bản địa hóa tiếng Indonesia",
+    "NAMES": [
+      "Aditya \"RiSQ.\" Arifin",
+      "Daryan \"Samus\" Ramadhany",
+      "Haveiszal \"Szaal\" Faroqie",
+      "Jason Julian"
+    ]
+  },
+  "LOC_ITA": {
+    "HEADER": "Bản địa hóa tiếng Ý",
+    "NAMES": [
+      "Jade \"HobNob\" Stevanovic",
+      "Mero Marco",
+      "Luigi Squarzina",
+      "Chơi thử:",
+      "Mattylink Heropon"
+    ]
+  },
+  "LOC_JPN": {
+    "HEADER": "Bản địa hoá tiếng Nhật",
+    "NAMES": [
+      "Grezzz (Bản dịch cộng đồng)",
+      "Kakehashi Games (Bản dịch chính thức)"
+    ]
+  },
+  "LOC_KOR": {
+    "HEADER": "Bản địa hóa tiếng Hàn Quốc",
+    "NAMES": [
+      "Quản lý dịch thuật:",
+      "Eteriny",
+      "Dịch thuật:",
+      "Simcoding",
+      "DesFrog",
+      "Fissh",
+      "insight",
+      "K4lium",
+      "hina",
+      "Dịch thuật trang Steam:",
+      "GyeRyak"
+    ]
+  },
+  "LOC_NOR": {
+    "HEADER": "Bản địa hóa tiếng Na Uy",
+    "NAMES": [
+      "Eystein Jarp"
+    ]
+  },
+  "LOC_POL": {
+    "HEADER": "Bản địa hóa tiếng Ba Lan",
+    "NAMES": [
+      "Dịch thuật và Điều phối:",
+      "Stanisław \"ST4H\" Borkowski",
+      "Oskar \"volf3n\" Nowak",
+      "Dịch thuật bổ sung:",
+      "Adrian \"xeros\" Rolka",
+      "Marek \"Skorpionex\" Mazur",
+      "Đọc và chỉnh sửa:",
+      "Oskar \"volf3n\" Nowak",
+      "Gợi ý và Phản hồi:",
+      "Kasper \"Awokado\" Berc",
+      "Paweł \"BASTIL\" Kaleta",
+      "Grzegorz \"GregPL\" Bogusławski",
+      "Erwin \"mateusz3010\" Matys",
+      "Mettie",
+      "Rafał \"SponTon83\" Szyszko",
+      "Rafał \"SponTon83\" Szyszko"
+    ]
+  },
+  "LOC_PTB": {
+    "HEADER": "Bản địa hóa tiếng Bồ Đào Nha Brasil",
+    "NAMES": [
+      "Guilherme \"GPerego\" Perego",
+      "Gustavo \"KomKlave\" Duarte",
+      "José \"Maneimax\" Vasconcelos",
+      "Leonardo \"Iikat\" Takii",
+      "Nathan \"NoxShadow\" Cervieri",
+      "Paulo \"SilverTape\" Hauck"
+    ]
+  },
+  "LOC_RUS": {
+    "HEADER": "Bản địa hoá tiếng Nga",
+    "NAMES": [
+      "Dịch thuật:",
+      "Ivan \"Ingrett\" Khoroshunenko",
+      "Vladislav \"Vlad-00003\" Bolshakov",
+      "Dmitry \"Regallion\" Zhiryakov",
+      "Dịch thuật bổ sung:",
+      "Dmitry \"Gentle Giant\" Gitsman",
+      "Neprim",
+      "Mikhail \"Outmind\" Dyuzhev",
+      "Bohdan \"DarkRosse\" Kalytiuk",
+      "Sergey \"lol10801lol\" K.",
+      "Ascimator",
+      "Kateryna \"Meds\" Belimenko-Bolger",
+      "Alexey \"Surrealistic Ganerson\" Popov",
+      "Alexandr \"LiaNdrY\" Mazistov",
+      "Dịch thuật đồ cửa hàng:",
+      "Urist McFerrum"
+    ]
+  },
+  "LOC_SPA": {
+    "HEADER": "Bản địa hoá tiếng Tây Ban Nha",
+    "NAMES": [
+      "Dịch thuật và Điều phối:",
+      "Pedro Luis \"PerikiyoXD\" Valadés Viera",
+      "Dịch thuật:",
+      "Xavier \"xabad98\" Abad Salinas",
+      "Sergio \"Skiddome\" Malagón",
+      "Juanjo \"ajuanjojjj\" Martinez",
+      "Pedro J. \"PJJLegend\" Jiménez",
+      "Ngữ pháp và Sửa lỗi:",
+      "Joaquín \"Pip1n\" López",
+      "Xavier Castañer"
+    ]
+  },
+  "LOC_SRB": {
+    "HEADER": "Bản địa hóa tiếng Serbia",
+    "NAMES": [
+      "Nikola \"hauzer\" Vukosavljevic"
+    ]
+  },
+  "LOC_THA": {
+    "HEADER": "Bản địa hoá tiếng Thái",
+    "NAMES": [
+      "Dịch thuật và Điều phối:",
+      "Noppon Varapaiboon (PlearnGaming)",
+      "Dịch thuật bổ sung:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Font chữ:",
+      "CSChatThaiUI của raveetavan@gmail.com",
+      "Layiji MaHaNiYom của  layiji@gmail.com"
+    ]
+  },
+  "LOC_TUR": {
+    "HEADER": "Bản địa hoá tiếng Thổ Nhĩ Kỳ",
+    "NAMES": [
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
+    ]
+  },
+  "LOC_UKR": {
+    "HEADER": "Bản địa hóa tiếng Ucraina",
+    "NAMES": [
+      "Dịch thuật và Điều phối:",
+      "Vladyslav \"DarkXylese\" Kashtelyanov",
+      "Sửa chữa và dịch thuật:",
+      "Vasyl \"RDSk\" Mykhaliuk",
+      "Artem \"Crazytosik\" Zemlianyi",
+      "Dariia \"Dariianity\" Porechna"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Bản địa hóa tiếng Việt",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Dịch thuật:",
+      "Hoàng Đình Long (donkrieg1011)",
+      "Nguyễn Đình Hoàng (clesta)",
+      "Điều phối và Hướng dẫn ngôn ngữ:",
+      "Đỗ Hoàng Sơn",
+      "Cảm ơn đặc biệt:",
+      "Azy Tazer"
+    ]
+  },
+  "LOC_ZHS": {
+    "HEADER": "Bản địa hóa tiếng Trung (Giản thể)",
+    "NAMES": [
+      "Sound of Mystery",
+      "IrisRaphael"
+    ]
+  },
+  "LOC_ZHT": {
+    "HEADER": "Bản địa hóa tiếng Trung (Phồn thể)",
+    "NAMES": [
+      "professor",
+      "bowans",
+      "Angryfox"
+    ]
+  },
+  "OPS": {
+    "HEADER": "Điều hành & Số liệu",
+    "NAMES": [
+      "Danielle Jenkins",
+      "Jake Rabinowitz"
+    ]
+  },
+  "PORTING": {
+    "HEADER": "Chuyển hệ sang Console và Di động",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
+  "PORTRAITS": {
+    "HEADER": "Ảnh minh họa bài & Sự kiện",
+    "NAMES": [
+      "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "Tổng giám đốc:  Alan Patmore",
+      "Giám đốc kinh doanh:  Steven Kovensky",
+      "Phó giám đốc, Phát triển kinh doanh:  Eduardo Aparicio",
+      "Quản lý phát hành:  John Polson",
+      "Quản lý phát hành xuất bản: Evan Koepf",
+      "Quản lý thương hiệu phát hành:  Connor Bridgeman",
+      "Giám đốc phát triển kinh doanh, Phát hành:  Mai Kawaguchi",
+      "Phát triển kinh doanh cấp cao:  Thomas Glenn",
+      "Phát triển kinh doanh cấp cao:  Bob Mills",
+      "Phát triển kinh doanh:  Trisha Tabor",
+      "Phát triển kinh doanh:  Angel Lyons-Labate",
+      "Giám đốc cửa hàng:  Paul Herron",
+      "Giám đốc tài chính:  Eric Samuel",
+      "Phó giám đốc sản xuất:  Nate Muller",
+      "Giám đốc Marketing:  Jeremie Vella",
+      "Quản lý Marketing:  Whitney Stutes",
+      "Quản lý tăng trưởng Marketing:  Francois du Toit",
+      "Nhẫn giả hỗ trợ:  Jimmy Chi",
+      "Nhẫn giả hỗ trợ:  Kasey Brounkowski",
+      "Nhẫn giả hỗ trợ:  Kayla Fyfe",
+      "Nhẫn giả hỗ trợ:  Patrick Monahan"
+    ]
+  },
+  "SOUND": {
+    "HEADER": "Nhạc & Âm thanh",
+    "NAMES": [
+      "Clark Aboud"
+    ]
+  },
+  "SPECIAL": {
+    "HEADER": "Đặc biệt cảm ơn",
+    "NAMES": [
+      "Harry Rabinowitz",
+      "Kevin \"Billy\" Matheson",
+      "Anthony Roybal",
+      "Lee Beckman",
+      "Sam Welch",
+      "feedbackbot",
+      "Evan Howell",
+      "Justin Myhres",
+      "robojumper",
+      "Tony \"kiooeht\" Moore",
+      "John Vega",
+      "Steve Groll",
+      "Sara Popescu",
+      "Ryan Hamann"
+    ]
+  },
+  "TEST": {
+    "HEADER": "Người chơi thử",
+    "NAMES": [
+      "Agari",
+      "Daria Anderson",
+      "Zac Bauermeister",
+      "Nick Becker",
+      "Esther Beckman",
+      "Leo Chen",
+      "Brian Chau",
+      "Dan D'Argenio",
+      "David Delorenzo",
+      "Tim Erskine",
+      "Benjamin Finkel",
+      "Rajiv Giridharagopal",
+      "Wyatt Grodzins",
+      "Ren Howell",
+      "Kyle James",
+      "Ryan Mathisen",
+      "Anthony McMillian",
+      "Brad Meine",
+      "Jacob Morris",
+      "Alex Rockwell",
+      "Greg Scheopner",
+      "John \"Slide20xl\" Smith",
+      "Aaron Taggart",
+      "Alexander Toy",
+      "Merijn van der Vliet",
+      "David Von Derau",
+      "Conor Watson",
+      "David \"divadus\" Withington",
+      "Jason \"Wyrm\" Deng",
+      "Jonas \"bigunit3000\" Wilson",
+      "TBytemaster"
+    ]
+  },
+  "THANKS_MSG": {
+    "HEADER": "...và cảm ơn BẠN đã chơi!",
+    "NAMES": []
+  },
+  "VOICE": {
+    "HEADER": "Lồng tiếng",
+    "NAMES": [
+      "Tamara Ryan",
+      "Michael Schwalbe"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Bản dịch chính thức):",
+      "Hỗ trợ phát hành tại Nhật:  Kakehashi Games",
+      "Bản địa hoá tiếng Nhật:  Rie Ihara"
+    ]
+  }
+}

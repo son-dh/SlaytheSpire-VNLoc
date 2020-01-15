@@ -1,0 +1,1503 @@
+{
+  "Anchor": {
+    "NAME": "Mỏ neo",
+    "FLAVOR": "Khi cầm vật phẩm tí hon này, bạn cảm thấy nặng và vững chắc hơn.",
+    "DESCRIPTIONS": [
+      "Bắt đầu trận đấu với #b",
+      " #yGiáp."
+    ]
+  },
+  "Ancient Tea Set": {
+    "NAME": "Bộ ấm chén cổ xưa",
+    "FLAVOR": "Bí quyết cho một giấc ngủ ngon.",
+    "DESCRIPTIONS": [
+      "Mỗi khi vào Khu nghỉ ngơi, bắt đầu trận đấu tiếp theo với [E] [E] ."
+    ]
+  },
+  "Art of War": {
+    "NAME": "Binh pháp",
+    "FLAVOR": "Bản thảo cổ này ẩn chứa trí tuệ từ một thời đại xưa cũ.",
+    "DESCRIPTIONS": [
+      "Nếu bạn không chơi lá #yTấn #ycông nào trong lượt, nhận thêm một ",
+      "[E] lượt tiếp theo."
+    ]
+  },
+  "Astrolabe": {
+    "NAME": "Thước trắc tinh",
+    "FLAVOR": "Công cụ để khai phá kiến thức vô giá từ các vì sao.",
+    "DESCRIPTIONS": [
+      "Khi nhận được, #yBiến #yđổi #b3 lá bài, sau đó #yNâng #ycấp chúng.",
+      "Chọn 3 lá bài để "
+    ]
+  },
+  "Bag of Marbles": {
+    "NAME": "Túi đựng bi",
+    "FLAVOR": "Từng là món đồ chơi phổ biến trong Thành phố. Rất hữu dụng để làm quân địch mất thăng bằng.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, gây #b",
+      " #ySơ #yhở cho TẤT CẢ quân địch."
+    ]
+  },
+  "Bag of Preparation": {
+    "NAME": "Túi trù bị",
+    "FLAVOR": "Túi cỡ to của nhà thám hiểm. Có nhiều ngăn và dây đai.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu trận đấu, rút thêm #b",
+      " lá bài."
+    ]
+  },
+  "Bird Faced Urn": {
+    "NAME": "Hũ mặt chim",
+    "FLAVOR": "Chiếc hũ có hình thần quạ Mazaleth tà ác.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài #yNăng #ylực, hồi #b",
+      " HP."
+    ]
+  },
+  "Black Blood": {
+    "NAME": "Hắc Huyết",
+    "FLAVOR": "Cơn thịnh nộ trở nên tăm tối hơn.",
+    "DESCRIPTIONS": [
+      "Thay thế #rHỏa #rHuyết. Khi kết thúc trận đấu, hồi #b",
+      " HP."
+    ]
+  },
+  "Black Star": {
+    "NAME": "Hắc Tinh",
+    "FLAVOR": "Lần đầu tìm thấy ở xà trấn, bên cạnh một cây nến đơn độc.",
+    "DESCRIPTIONS": [
+      "Quái tinh anh sẽ rơi thêm một cổ vật khi bị đánh bại."
+    ]
+  },
+  "Blood Vial": {
+    "NAME": "Ống máu",
+    "FLAVOR": "Ống đựng máu của một đại ma ca rồng thuần huyết.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu trận đấu, hồi #b",
+      " HP."
+    ]
+  },
+  "Bloody Idol": {
+    "NAME": "Bức tượng đẫm máu",
+    "FLAVOR": "Bức tượng giờ đây không ngừng tuôn ra một luồng máu.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn nhận #yVàng, hồi #b",
+      " HP."
+    ]
+  },
+  "Blue Candle": {
+    "NAME": "Cây nến xanh",
+    "FLAVOR": "Ngọn lửa bùng lên khi bị bóng tối vây quanh.",
+    "DESCRIPTIONS": [
+      "Những lá bài #rNguyền #rKhông #rthể #rchơi #rđược giờ đã có thể chơi. NL Mỗi khi bạn chơi một lá #rNguyền, mất #b",
+      " HP và #yĐốt lá bài đó."
+    ]
+  },
+  "Bottled Flame": {
+    "NAME": "Bình lửa",
+    "FLAVOR": "Bên trong bình có một ngọn lửa cháy vĩnh cửu.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, chọn một lá bài #yTấn #ycông. Bắt đầu mỗi trận đấu với lá bài này trong tay.",
+      "Chọn một lá để ",
+      "Bắt đầu trận đấu với ",
+      " trong tay."
+    ]
+  },
+  "Bottled Lightning": {
+    "NAME": "Bình sét",
+    "FLAVOR": "Khi nhìn vào vòng xoáy dữ dội, bạn thấy một phần bản thân đang nhìn lại.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, chọn một lá bài #yKỹ #ynăng. Bắt đầu mỗi trận đấu với lá bài này trong tay.",
+      "Chọn một lá để ",
+      "Bắt đầu trận đấu với ",
+      " trong tay."
+    ]
+  },
+  "Bottled Tornado": {
+    "NAME": "Bình lốc",
+    "FLAVOR": "Chiếc bình khẽ phát ra tiếng vù vù.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, chọn một lá bài #yNăng #ylực. Bắt đầu mỗi trận đấu với lá bài này trong tay.",
+      "Chọn một lá để ",
+      "Bắt đầu trận đấu với ",
+      " trong tay."
+    ]
+  },
+  "Bronze Scales": {
+    "NAME": "Vảy đồng",
+    "FLAVOR": "Những chiếc vảy của Hộ vệ.  Tự sắp xếp để bảo vệ người dùng. ",
+    "DESCRIPTIONS": [
+      "Bắt đầu trận đấu với #b",
+      " #yGai."
+    ]
+  },
+  "Burning Blood": {
+    "NAME": "Hỏa Huyết",
+    "FLAVOR": "Máu trong người bạn bùng cháy với cơn thịnh nộ khôn nguôi.",
+    "DESCRIPTIONS": [
+      "Khi kết thúc trận đấu, hồi #b",
+      " HP."
+    ]
+  },
+  "Cables": {
+    "NAME": "Dây cáp mạ vàng",
+    "FLAVOR": "\"Thật thú vị! Ngay cả người máy cũng bị ảnh hưởng bởi giả dược.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Ngọc ngoài cùng bên phải sẽ kích hoạt nội tại thêm một lần."
+    ]
+  },
+  "Calipers": {
+    "NAME": "Thước cặp",
+    "FLAVOR": "\"Kỹ thuật phải chính xác mới thành công\" - Kiến trúc sư",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, mất #b",
+      " #yGiáp thay vì toàn bộ #yGiáp."
+    ]
+  },
+  "Calling Bell": {
+    "NAME": "Chuông vẫy gọi",
+    "FLAVOR": "Chiếc chuông sắt đen reo 3 lần khi bạn tìm thấy nó, nhưng giờ thì lặng thinh.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, nhận một lá #rNguyền đặc biệt và #b3 cổ vật.",
+      "Chiếc chuông reo lên...",
+      "Bỏ qua phần thưởng",
+      "Đóng"
+    ]
+  },
+  "Cauldron": {
+    "NAME": "Vạc",
+    "FLAVOR": "Thương gia thực ra là một người chế dược rất giỏi. Mua 4 tặng 1.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, chế #b5 bình dược ngẫu nhiên.",
+      "Blup blip bloop...!"
+    ]
+  },
+  "Centennial Puzzle": {
+    "NAME": "Trò chơi Trăm năm",
+    "FLAVOR": "Khi giải mã được câu đố, bạn cảm thấy một luồng hơi ấm quyền lực tỏa ra từ lồng ngực.",
+    "DESCRIPTIONS": [
+      "Khi bạn mất HP lần đầu trong trận đấu, rút thêm #b",
+      " lá bài."
+    ]
+  },
+  "Chameleon Ring": {
+    "NAME": "Nhẫn Tắc kè",
+    "FLAVOR": "Không dùng",
+    "DESCRIPTIONS": [
+      "Bạn có thể #yChế dược ở Khu nghỉ ngơi."
+    ]
+  },
+  "Champion Belt": {
+    "NAME": "Đai Vô địch",
+    "FLAVOR": "Chỉ người vĩ đại nhất mới được đeo chiếc đai này.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn gây #ySơ #yhở, gây thêm #b",
+      " #yYếu."
+    ]
+  },
+  "Charon's Ashes": {
+    "NAME": "Tro của Charon",
+    "FLAVOR": "Charon được coi là vị thần tái sinh, vĩnh viễn chết đi và sống lại trong một ngọn lửa.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn #yĐốt một lá bài, gây #b",
+      " sát thương lên TẤT CẢ các quân địch."
+    ]
+  },
+  "Chemical X": {
+    "NAME": "Hóa chất X",
+    "FLAVOR": "CẢNH BÁO: Không được trộn với đường, gia vị và mọi điều tốt đẹp.",
+    "DESCRIPTIONS": [
+      "Tác dụng của những lá bài #bX được tăng thêm #b",
+      ""
+    ]
+  },
+  "Circlet": {
+    "NAME": "Vòng tay",
+    "FLAVOR": "Bạn đã tìm hết cổ vật. Thật ấn tượng!",
+    "DESCRIPTIONS": [
+      "Thu thập càng nhiều càng tốt."
+    ]
+  },
+  "Cracked Core": {
+    "NAME": "Lõi nứt",
+    "FLAVOR": "Luồng sinh khí bí ẩn cung cấp năng lượng cho Người máy bên trong Tháp Xoáy. Nó có vẻ đã bị nứt.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, #yGọi #b1 #ySét."
+    ]
+  },
+  "FrozenCore": {
+    "NAME": "Lõi Băng",
+    "FLAVOR": "Vết nứt trong lõi đã được một nguồn năng lượng băng giá mạnh mẽ đong đầy.",
+    "DESCRIPTIONS": [
+      "Thay thế #bLõi #bNứt. Nếu kết thúc lượt mà bạn có ô Ngọc trống, #yGọi #b1 #yBăng."
+    ]
+  },
+  "Cursed Key": {
+    "NAME": "Chìa khóa bị nguyền",
+    "FLAVOR": "Bạn cảm thấy một nguồn năng lượng tà ác phát ra từ chiếc chìa khóa. Sức mạnh có giá của nó.",
+    "DESCRIPTIONS": [
+      " khi bắt đầu lượt của bạn. Mỗi khi bạn mở rương không phải của Trùm, nhận một lá #rNguyền.",
+      "Nhận [E]"
+    ]
+  },
+  "Darkstone Periapt": {
+    "NAME": "Bùa đá đen",
+    "FLAVOR": "Viên đá lấy sức mạnh từ nguồn năng lượng đen tối, chuyển hóa nó thành thể lực cho người đeo.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn nhận một lá #rNguyền, tăng HP tối đa thêm #b"
+    ]
+  },
+  "DataDisk": {
+    "NAME": "Đĩa dữ liệu",
+    "FLAVOR": "Chiếc đĩa chứa đựng dữ liệu quan trọng về chim và rắn.",
+    "DESCRIPTIONS": [
+      "Bắt đầu trận đấu với #b",
+      " #yTập #ytrung."
+    ]
+  },
+  "Dead Branch": {
+    "NAME": "Cành cây khô héo",
+    "FLAVOR": "Cành của một cây từ thuở đã quên lãng.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn #yĐốt một lá bài, thêm một lá bài ngẫu nhiên vào tay của bạn."
+    ]
+  },
+  "Derp Rock": {
+    "NAME": "Hòn đá ngáo ngơ",
+    "FLAVOR": "Giữ chỗ",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, nhận #b",
+      " Sạc. NL (Không thể hủy hoặc biến đổi.)"
+    ]
+  },
+  "Discerning Monocle": {
+    "NAME": "Kính soi hàng",
+    "FLAVOR": "Đúng là một mắt kính thật sắc sảo.",
+    "DESCRIPTIONS": [
+      "Giá Thương gia giảm #b20%"
+    ]
+  },
+  "Dodecahedron": {
+    "NAME": "DEPRECATED Khối đa diện Rune",
+    "FLAVOR": "Những chữ cái không giải mã được.",
+    "DESCRIPTIONS": [
+      "Nếu bạn đầy HP, nhận ",
+      "[E] khi bắt đầu lượt của bạn."
+    ]
+  },
+  "Dream Catcher": {
+    "NAME": "Lưới giấc mơ",
+    "FLAVOR": "Những bộ tộc phương bắc thường treo lưới giấc mơ vào ban đêm, tin răng chúng sẽ giúp cải thiện bản thân.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn #yNghỉ, bạn có thể thêm một lá vào bộ bài của bạn."
+    ]
+  },
+  "Du-Vu Doll": {
+    "NAME": "Búp bê Du-Vu",
+    "FLAVOR": "Con búp bê được tạo ra để lấy sức mạnh từ ma lực.",
+    "DESCRIPTIONS": [
+      "Với mỗi lá #rNguyền trong bộ bài, bắt đầu trận đấu với  #b",
+      " #ySức #ymạnh.",
+      " Bạn không có lá #rNguyền nào.",
+      " Bạn có #b lá",
+      " #rNguyền."
+    ]
+  },
+  "Ectoplasm": {
+    "NAME": "Dịch nhầy",
+    "FLAVOR": "Cục nhầy đầy năng lượng này dường như có sự sống trong nó.",
+    "DESCRIPTIONS": [
+      " Bạn không thể nhận thêm #yVàng.",
+      "Thêm [E] khi bắt đầu lượt của bạn."
+    ]
+  },
+  "Emotion Chip": {
+    "NAME": "Chíp cảm xúc",
+    "FLAVOR": "...<3...?",
+    "DESCRIPTIONS": [
+      "Nếu bạn mất HP trong lượt trước, kích hoạt nội tại của toàn bộ Ngọc khi bắt đầu lượt của bạn."
+    ]
+  },
+  "Enchiridion": {
+    "NAME": "Enchiridion",
+    "FLAVOR": "Nhật ký huyền thoại của một pháp sư cổ xưa.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, thêm một lá bài #yNăng #ylực ngẫu nhiên vào tay của bạn. Nó sẽ có giá #b0 trong lượt đó."
+    ]
+  },
+  "Eternal Feather": {
+    "NAME": "Lông vũ vĩnh cửu",
+    "FLAVOR": "Chiếc lông có vẻ như hoàn toàn bất diệt. Liệu nó là của loài chim nào?",
+    "DESCRIPTIONS": [
+      "Với mỗi #b",
+      " lá trong bộ bài, hồi #b",
+      " HP khi bạn vào Khu nghỉ ngơi."
+    ]
+  },
+  "Frozen Egg 2": {
+    "NAME": "Trứng Băng",
+    "FLAVOR": "Quả trứng hóa đá nằm bất động, không bao giờ nở được.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn thêm một lá #yNăng #ylực vào bộ bài, #yNâng #ycấp lá đó."
+    ]
+  },
+  "Frozen Eye": {
+    "NAME": "Mắt Băng",
+    "FLAVOR": "Khi nhìn vào con mắt, bạn thoáng thấy tương lai của mình.",
+    "DESCRIPTIONS": [
+      "Khi xem #ychồng #ybài #yrút, các lá bài giờ đã được sắp xếp đúng thứ tự."
+    ]
+  },
+  "Gambling Chip": {
+    "NAME": "Đồng xu cờ bạc",
+    "FLAVOR": "Bạn nhìn thấy một dòng chữ nhỏ khắc trên một mặt. Nó ghi rằng: \"Đồng xu may mắn của Bear!\"",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, bỏ bất kỳ lá bài nào, rồi bốc lên từng đấy lá."
+    ]
+  },
+  "Ginger": {
+    "NAME": "Củ gừng",
+    "FLAVOR": "Một nguyên liệu hiệu lực trong nhiều loại thuốc bổ.",
+    "DESCRIPTIONS": [
+      "Bạn không thể bị #yYếu nữa."
+    ]
+  },
+  "Girya": {
+    "NAME": "Quả tạ",
+    "FLAVOR": "Quả tạ nặng không thể tưởng tượng. Bạn có thể dùng tạ tập để khỏe hơn rất nhiều.",
+    "DESCRIPTIONS": [
+      "Bạn có thể tăng thêm #ySức #ymạnh ở Khu nghỉ ngơi (tối đa 3 lần)."
+    ]
+  },
+  "Golden Idol": {
+    "NAME": "Tượng vàng",
+    "FLAVOR": "Làm bằng vàng nguyên khối, cầm vào đã thấy sang.",
+    "DESCRIPTIONS": [
+      "Quân địch rơi thêm #b25% #yVàng."
+    ]
+  },
+  "Gremlin Horn": {
+    "NAME": "Sừng Gremlin",
+    "FLAVOR": "\"Đại ca yêu tinh không ngừng lớn lên cho đến khi chúng khi chết. Thật đáng kinh ngạc.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Mỗi khi kẻ địch chết, nhận ",
+      "[E] và rút thêm #b1 lá bài."
+    ]
+  },
+  "Happy Flower": {
+    "NAME": "Bông hoa Vui vẻ",
+    "FLAVOR": "Loài cây không ngừng vui vẻ này là một món hàng độc đáo được giới quý tộc ưa chuộng.",
+    "DESCRIPTIONS": [
+      "Mỗi #b",
+      " lượt, nhận [E] ."
+    ]
+  },
+  "Ice Cream": {
+    "NAME": "Cây Kem",
+    "FLAVOR": "\"Ngon tuyệt!\"",
+    "DESCRIPTIONS": [
+      "Năng lượng được giữ lại sang lượt sau."
+    ]
+  },
+  "Inserter": {
+    "NAME": "Máy chèn",
+    "FLAVOR": "Đẩy. Kéo. Chồng. Lặp lại.",
+    "DESCRIPTIONS": [
+      "Mỗi #b2 lượt, nhận thêm #b1 ô Ngọc."
+    ]
+  },
+  "Juzu Bracelet": {
+    "NAME": "Chuỗi hạt tràng",
+    "FLAVOR": "Bùa chống vô định.",
+    "DESCRIPTIONS": [
+      "Không còn gặp quái thường trong phòng #y?."
+    ]
+  },
+  "Kunai": {
+    "NAME": "Kunai",
+    "FLAVOR": "Loại dao được sát thủ ưu chuộng vì độ chí mạng từ xa.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi #b",
+      " lá bài #yTấn #ycông trong một lượt, nhận #b",
+      " #yLinh #yhoạt."
+    ]
+  },
+  "Lantern": {
+    "NAME": "Đèn lồng",
+    "FLAVOR": "Cây đèn lồng kỳ lạ chỉ soi sáng cho người cầm.",
+    "DESCRIPTIONS": [
+      "Bắt đầu mỗi trận đấu có thêm ",
+      "[E] ",
+      ""
+    ]
+  },
+  "Lee's Waffle": {
+    "NAME": "Bánh quế của Lee",
+    "FLAVOR": "\"Món ngon nhất bạn tìm được trong Tháp Xoáy luôn! Vừa nướng sáng nay cho bạn đấy.\"",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, nâng HP tối đa thêm #b",
+      " và hồi toàn bộ HP của bạn."
+    ]
+  },
+  "Letter Opener": {
+    "NAME": "Dao rọc giấy",
+    "FLAVOR": "Sắc bất thường.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi #b3 lá bài #yKỹ #ynăng trong một lượt, gây #b",
+      " sát thương lên TẤT CẢ các quân địch."
+    ]
+  },
+  "Living Blade": {
+    "NAME": "Lưỡi dao sống",
+    "FLAVOR": "KHÔNG DÙNG",
+    "DESCRIPTIONS": [
+      "Bạn có thể nhận bất kỳ lá bài nào theo số lượng tùy thích."
+    ]
+  },
+  "Lizard Tail": {
+    "NAME": "Đuôi Thằn lằn",
+    "FLAVOR": "Một chiếc đuôi giả dùng để lừa quân địch khi chiến đấu.",
+    "DESCRIPTIONS": [
+      "Thay vì chết, hồi lại #b50% số HP tối đa (có tác dụng một lần)."
+    ]
+  },
+  "Magic Flower": {
+    "NAME": "Bông hoa ma thuật",
+    "FLAVOR": "Loài hoa tưởng như đã tuyệt chủng, bằng cách nào đó lại được bảo toàn nguyên vẹn.",
+    "DESCRIPTIONS": [
+      "Tăng #b50% hiệu quả hồi máu khi chiến đấu."
+    ]
+  },
+  "Mango": {
+    "NAME": "Quả xoài",
+    "FLAVOR": "Loại trái cây bị quên lãng được thèm muốn nhất. Bảo tồn nguyên vẹn không có dấu hiệu của Tai ương Tháp Xoáy.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, nâng HP tối đa thêm #b"
+    ]
+  },
+  "Mark of Pain": {
+    "NAME": "Vết tích đau đớn",
+    "FLAVOR": "Vết đóng dấu được các bộ tộc phương bắc sử dụng để phân biệt các chiến binh đã vượt qua nỗi đau trên chiến trường.",
+    "DESCRIPTIONS": [
+      "Thêm [R] khi bắt đầu lượt của bạn. Khi bắt đầu trận đấu, tráo #b2 lá #rVết #rthương vào chồng bài bốc."
+    ]
+  },
+  "Matryoshka": {
+    "NAME": "Matryoshka",
+    "FLAVOR": "Bộ búp bê sơn màu có thể xếp chồng lên nhau. Lớp sơn mô tả một loài chim không xác định có mắt trắng và lông xanh.",
+    "DESCRIPTIONS": [
+      "#b2 chiếc rương không phải của Trùm tiếp theo chứa #b2 #yCổ #yvật.",
+      "Chiếc rương không phải của Trùm tiếp theo chứa #b2 #yCổ #yvật.",
+      "Cổ vật này đã sử dụng hết."
+    ]
+  },
+  "Meat on the Bone": {
+    "NAME": "Khúc sườn",
+    "FLAVOR": "Thịt cứ ăn lại mọc lại, có vẻ không thể ăn hết được.",
+    "DESCRIPTIONS": [
+      "Nếu HP của bạn bằng hoặc dưới #b50% khi kết thúc trận đấu, hồi #b",
+      " HP."
+    ]
+  },
+  "Medical Kit": {
+    "NAME": "Hộp cứu thương",
+    "FLAVOR": "\"Có mọi thứ bạn cần! Chống ngứa, chống bỏng, chống độc, vân vân!\"",
+    "DESCRIPTIONS": [
+      "Những lá bài #yTrạng #ythái #yKhông #ychơi #yđược giờ có thể được chơi. Mỗi khi bạn chơi một lá #yTrạng #ythái, #yĐốt lá bài đó."
+    ]
+  },
+  "Membership Card": {
+    "NAME": "Thẻ Thành viên",
+    "FLAVOR": "\"Giá ưu đãi thành viên dành những khách hàng thân thiết nhất!\"",
+    "DESCRIPTIONS": [
+      "Giảm giá #b50% toàn bộ sản phẩm!"
+    ]
+  },
+  "Mercury Hourglass": {
+    "NAME": "Đồng hồ cát Thủy ngân",
+    "FLAVOR": "Chiếc đồng hồ cát ma thuật không ngừng chảy.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, gây #b",
+      " sát thương lên TẤT CẢ các quân địch."
+    ]
+  },
+  "Molten Egg 2": {
+    "NAME": "Trứng nham thạch",
+    "FLAVOR": "Một quả trứng Phượng hoàng. Tỏa ra ánh đỏ của dung nham nóng chảy.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn thêm một lá #yTấn #ycông vào trong bộ bài, #yNâng #ycấp lá bài đó."
+    ]
+  },
+  "Mummified Hand": {
+    "NAME": "Tay xác ướp",
+    "FLAVOR": "Thường xuyên co rút, đặc biệt là khi nhịp tim bạn cao.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá #yNăng #ylực, một lá bài bất kỳ trong tay bạn có giá #b0 trong lượt đó."
+    ]
+  },
+  "Necronomicon": {
+    "NAME": "Necronomicon",
+    "FLAVOR": "Chỉ có kẻ ngu xuẩn mới cố khai thác sức mạnh tà ác này. Hàng đêm, hình ảnh cuốn sách gặm nhấm tâm trí ám ảnh giấc mộng của bạn.",
+    "DESCRIPTIONS": [
+      "Lá bài #yTấn #ycông đầu tiên tốn từ #b",
+      " trở lên được chơi hai lần. Khi nhặt được, nhận một lá #rNguyền đặc biệt.",
+      " trở lên được chơi hai lần."
+    ]
+  },
+  "NeowsBlessing": {
+    "NAME": "Tiếng khóc của Neow",
+    "FLAVOR": "Lời phù hộ oán thán được Neow ban tặng.",
+    "DESCRIPTIONS": [
+      "Quân địch trong #b3 trận đấu đầu tiên sẽ có #b1 HP.",
+      "Cổ vật này đã sử dụng hết."
+    ]
+  },
+  "Nilry's Codex": {
+    "NAME": "Cổ thư của Nilry",
+    "FLAVOR": "Được viết bởi chính bá chủ trò chơi khét tiếng. Được đồn rằng có thể mở mang tâm trí.",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt, bạn có thể tráo #b1 trong #b3 lá ngẫu nhiên vào chồng bài bốc của bạn."
+    ]
+  },
+  "Ninja Scroll": {
+    "NAME": "Bí kíp nhẫn giả",
+    "FLAVOR": "Ẩn chứa bí kíp ám sát.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, thêm #b",
+      " #yDao #yGăm vào tay bạn."
+    ]
+  },
+  "Nloth's Gift": {
+    "NAME": "Món quà của N'loth",
+    "FLAVOR": "Món quà kỳ lạ của N'loth. Khi bạn bóc hộp, bên trong lại là một chiếc hộp to y hệt.",
+    "DESCRIPTIONS": [
+      "Nhân ba tỉ lệ tìm được bài #yHiếm trong phần thưởng trận đấu."
+    ]
+  },
+  "Nuclear Battery": {
+    "NAME": "Pin Nguyên tử",
+    "FLAVOR": "Ooooh...",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu trận đấu, #yGọi #b1 #yPlasma."
+    ]
+  },
+  "Nullstone Periapt": {
+    "NAME": "Bùa đá vô hiệu",
+    "FLAVOR": "KHÔNG DÙNG.",
+    "DESCRIPTIONS": [
+      "Vô hiệu hóa trạng thái bất lợi tiếp theo bạn nhận từ kẻ địch. NL Hồi lại sau #b10 lượt."
+    ]
+  },
+  "Odd Mushroom": {
+    "NAME": "Cây nấm lạ",
+    "FLAVOR": "\"Sau khi ăn nấm ký sinh mình cảm thấy cao hơn và... ít mẫn cảm hơn.\" - Ranwid ",
+    "DESCRIPTIONS": [
+      "Khi #ySơ #yhở, nhận thêm #b25% sát thương tấn công thay vì #b50%."
+    ]
+  },
+  "Oddly Smooth Stone": {
+    "NAME": "Hòn đá nhẵn lạ thường",
+    "FLAVOR": "Bạn chưa bao giờ thấy thứ gì nhẵn và tinh tươm đến vậy. Đây hẳn là sản phẩm của Người cổ đại.",
+    "DESCRIPTIONS": [
+      "Bắt đầu trận đấu với #b",
+      " #yLinh #yhoạt."
+    ]
+  },
+  "Old Coin": {
+    "NAME": "Đồng tiền cổ",
+    "FLAVOR": "Những đồng tiền độc nhất được các thương gia đánh giá cao vì giá trị lịch sử và thành phần kim loại hiếm có.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, nhận #b300 #yVàng."
+    ]
+  },
+  "Omamori": {
+    "NAME": "Bùa hộ mệnh",
+    "FLAVOR": "Loại bùa thông dụng để xua đuổi tà ma. Chiếc bùa này dường như có chút năng lượng thần thánh.",
+    "DESCRIPTIONS": [
+      "Loại bỏ #b2 lá bài #rNguyền tiếp theo mà bạn nhận.",
+      "Loại bỏ lá bài #rNguyền tiếp theo mà bạn nhận.",
+      "Cổ vật này đã sử dụng hết."
+    ]
+  },
+  "Orichalcum": {
+    "NAME": "Orichalcum",
+    "FLAVOR": "Kim loại ánh xanh có nguồn gốc không rõ ràng. Dường như không thể phá hủy.",
+    "DESCRIPTIONS": [
+      "Nếu bạn kết thúc lượt mà không có #yGiáp, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "Ornamental Fan": {
+    "NAME": "Quạt trang trí",
+    "FLAVOR": "Chiếc quạt dường như dài và cứng hơn mỗi khi có đổ máu.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi #b3 lá bài #yTấn #ycông trong một lượt, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "Orrery": {
+    "NAME": "Mô hình thiên hà",
+    "FLAVOR": "\"Một khi ngươi đã hiểu vũ trụ...\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, chọn và thêm #b5 lá bài vào bộ bài của bạn.",
+      "Kiến thức!"
+    ]
+  },
+  "Pandora's Box": {
+    "NAME": "Hộp Pandora",
+    "FLAVOR": "Bạn thấy dự cảm không lành khi mở chiếc hộp này.",
+    "DESCRIPTIONS": [
+      "Khi nhận được, #bBiến #bđổi tất cả bài Tấn công và Phòng thủ.",
+      "Chiếc hộp Pandora đã bị mở ra..."
+    ]
+  },
+  "Pantograph": {
+    "NAME": "Thước sao đồ",
+    "FLAVOR": "\"Không phải ngẫu nhiên mà có nền tảng vững chắc. Phải có công cụ hoạch định.\" - The Architect",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu trận đấu Trùm, hồi #b",
+      " HP."
+    ]
+  },
+  "Paper Crane": {
+    "NAME": "Hạk giấy",
+    "FLAVOR": "Mô hình giấy của một loài vật từ thưở trước.",
+    "DESCRIPTIONS": [
+      "Quân địch bị #yYếu sẽ bị giảm #b40% sát thương gây ra thay vì #b25%."
+    ]
+  },
+  "Paper Frog": {
+    "NAME": "Ếck giấy",
+    "FLAVOR": "Tờ giấy liên tục gập và mở thành hình thù của một sinh vật tí hon.",
+    "DESCRIPTIONS": [
+      "Quân địch bị #ySơ #yhở sẽ nhận thêm #b75% sát thương thay vì #b50%."
+    ]
+  },
+  "Peace Pipe": {
+    "NAME": "Tẩu yên bình",
+    "FLAVOR": "Thông thoáng đầu óc và thanh tẩy tâm hồn.",
+    "DESCRIPTIONS": [
+      "Bạn có thể bỏ bài khỏi bộ tại Khu nghỉ ngơi."
+    ]
+  },
+  "Pear": {
+    "NAME": "Quả lê",
+    "FLAVOR": "Loại trái cây phổ biến trước Tai ương Tháp Xoáy.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, nâng HP tối đa thêm #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Ngòi bút",
+    "FLAVOR": "Khi cầm ngòi bút, bạn có thể thấy tất cả những người bị chủ cũ của cây bút này giết. Một lịch sử đẫm máu.",
+    "DESCRIPTIONS": [
+      "Mỗi lá bài #yTấn #ycông #bthứ #b10 bạn chơi sẽ nhân đôi sát thương."
+    ]
+  },
+  "Philosopher's Stone": {
+    "NAME": "Hòn đá Phù thủy",
+    "FLAVOR": "Năng lượng thuần túy tỏa ra từ hòn đá, tăng sức mạnh mọi thứ xung quanh.",
+    "DESCRIPTIONS": [
+      "Nhận [E] khi bắt đầu lượt của bạn. TẤT CẢ quân địch bắt đầu trận đấu với #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Potion Belt": {
+    "NAME": "Đai dược",
+    "FLAVOR": "Đeo đai này mình có thể cầm nhiều Bình dược hơn!",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, nhận thêm #b2 ô Bình dược."
+    ]
+  },
+  "Prayer Wheel": {
+    "NAME": "Bánh xe cầu nguyện",
+    "FLAVOR": "Bắn xe liên tục quay, không bao giờ dừng.",
+    "DESCRIPTIONS": [
+      "Quân địch thường sẽ thưởng thêm một lá bài."
+    ]
+  },
+  "Question Card": {
+    "NAME": "Lá bài dấu hỏi",
+    "FLAVOR": "\"Kẻ có nhiều lựa chọn sẽ giảm thiểu nhược điểm của sự hỗn loạn.\" - Kublai Vĩ đại",
+    "DESCRIPTIONS": [
+      "Bài thưởng có thêm #b1 lá để chọn."
+    ]
+  },
+  "Red Circlet": {
+    "NAME": "Vòng tay đỏ",
+    "FLAVOR": "Bạn đã dùng hết cổ vật. Thật ấn tượng!",
+    "DESCRIPTIONS": [
+      "Nhìn rất đẹp."
+    ]
+  },
+  "Red Mask": {
+    "NAME": "Mặt nạ đỏ",
+    "FLAVOR": "Chiếc mặt nạ thời trang này là của thủ lĩnh Băng cướp Mặt nạ đỏ. Cho nên về cơ bản bây giờ bạn là thủ lĩnh?",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, gây #b",
+      " #yYếu cho TẤT CẢ quân địch."
+    ]
+  },
+  "Red Skull": {
+    "NAME": "Hồng lâu",
+    "FLAVOR": "Hộp sọ tí hon được phủ một lớp sơn trang trí.",
+    "DESCRIPTIONS": [
+      "Khi HP của bạn bằng hoặc dưới #b50%, bạn nhận thêm #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Regal Pillow": {
+    "NAME": "Gối vương giả",
+    "FLAVOR": "Giờ bạn đã có thể ngủ ngon hơn.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn #yNghỉ #yngơi, hồi thêm #b",
+      " HP."
+    ]
+  },
+  "Ring of the Serpent": {
+    "NAME": "Nhãn mãng xà",
+    "FLAVOR": "Chiếc nhẫn đã thay hình đổi dạng.",
+    "DESCRIPTIONS": [
+      "Thay thế #gNhẫn #grắn. ",
+      "Khi bắt đầu lượt của bạn, rút thêm #b1 lá bài."
+    ]
+  },
+  "Ring of the Snake": {
+    "NAME": "Nhẫn rắn",
+    "FLAVOR": "Làm từ một con rắn hóa thạch. Minh chứng cho kỹ năng thành thạo của nữ thợ săn.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu trận đấu, rút thêm #b",
+      " lá bài."
+    ]
+  },
+  "Runic Capacitor": {
+    "NAME": "Tụ điện Rune",
+    "FLAVOR": "Càng nhiều càng tốt.",
+    "DESCRIPTIONS": [
+      "Bắt đầu mỗi trận đấu được thêm #b3 ô Ngọc."
+    ]
+  },
+  "Runic Cube": {
+    "NAME": "Khối lập phương Rune",
+    "FLAVOR": "Những chữ cái không giải mã được.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn mất HP, rút #b",
+      " lá bài.",
+      ""
+    ]
+  },
+  "Runic Dome": {
+    "NAME": "Lồng Rune",
+    "FLAVOR": "Những chữ cái không giải mã được.",
+    "DESCRIPTIONS": [
+      " khi bắt đầu lượt của bạn. Bạn không thể nhìn thấy ý định của quân địch nữa.",
+      "Nhận [E]"
+    ]
+  },
+  "Runic Pyramid": {
+    "NAME": "Kim tự tháp Rune",
+    "FLAVOR": "Những chữ cái không giải mã được.",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt, bạn không phải bỏ bài trên tay nữa.",
+      ""
+    ]
+  },
+  "Self Forming Clay": {
+    "NAME": "Đất tự thành hình",
+    "FLAVOR": "\"Thật thú vị! Cục đất dường như tự thành hình theo suy nghĩ của mình! Cục đất này ngoại cảm ư?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn mất HP, nhận thêm #b",
+      " #yGiáp vào lượt sau."
+    ]
+  },
+  "Shovel": {
+    "NAME": "Xẻng",
+    "FLAVOR": "Tháp Xoáy chứa đựng rất nhiều cổ vật bị quên lãng từ những nền văn minh xưa cũ và những nhà thám hiểm. Đến lúc đào chúng lên rồi!",
+    "DESCRIPTIONS": [
+      "Giờ bạn có thể #yĐào tìm cổ vật tại Khu nghỉ ngơi."
+    ]
+  },
+  "Shuriken": {
+    "NAME": "Phi tiêu",
+    "FLAVOR": "Vũ khí ném cầm tay. Khuyến khích ném vào mắt.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi #b",
+      " lá bài #yTấn #ycông trong một lượt, nhận #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Singing Bowl": {
+    "NAME": "Chuông xoay",
+    "FLAVOR": "Cổ vật đã sử dụng vô số lần này khi gõ sẽ phát ra giai điệu du dương.",
+    "DESCRIPTIONS": [
+      "Thay vì thêm bài vào bộ, bạn có thể nâng HP tối đa thêm #b2."
+    ]
+  },
+  "Smiling Mask": {
+    "NAME": "Mặt nạ cười",
+    "FLAVOR": "Mặt nạ Thương gia đeo. Chắc ông ta còn thừa...",
+    "DESCRIPTIONS": [
+      "Dịch vụ hủy bài của Thương gia giờ sẽ luôn luôn tốn #b",
+      " #yVàng."
+    ]
+  },
+  "Snake Skull": {
+    "NAME": "Đầu lâu Dắn rết",
+    "FLAVOR": "Sọ dắn rết còn mới tinh. Sạch sẽ và trơn tru một cách lạ thường, bụi bẩn vì lí do nào đó không thể bám vào.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn gây #yĐộc, gây thêm #b",
+      " #yĐộc."
+    ]
+  },
+  "Snecko Eye": {
+    "NAME": "Mắt Dắn rết",
+    "FLAVOR": "Mắt của một con Dắn rết. To hơn bạn tưởng nhiều.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, rút thêm #b2 lá bài. Bắt đầu mỗi trận đấu bị #yRối #ytrí."
+    ]
+  },
+  "Sozu": {
+    "NAME": "Ống tre",
+    "FLAVOR": "Bạn để ý thấy nước ma thuật bị mất tác dụng khi để gần cổ vật này.",
+    "DESCRIPTIONS": [
+      " khi bắt đầu lượt của bạn. Bạn không thể lấy thêm bình thuốc.",
+      "Nhận [E]"
+    ]
+  },
+  "Spirit Poop": {
+    "NAME": "Cục phân ma",
+    "FLAVOR": "Tàn dư còn sót lại của lễ vật bạn dâng tặng cho những linh hồn.",
+    "DESCRIPTIONS": [
+      "Có mùi khó chịu."
+    ]
+  },
+  "Strange Spoon": {
+    "NAME": "Chiếc thìa kỳ lạ",
+    "FLAVOR": "Khi nhìn vào chiếc thẻ, nó dường như bị bẻ cong ngay trước mắt bạn.",
+    "DESCRIPTIONS": [
+      "Những lá bài bị #yĐót khi chơi giờ có tỷ lệ #b50% chỉ bị bỏ."
+    ]
+  },
+  "Strawberry": {
+    "NAME": "Quả Dâu",
+    "FLAVOR": "\"Ngon tuyệt! Từ lúc tai ương ập đến chưa nhìn thấy quả nào.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, nâng HP tối đa thêm #b"
+    ]
+  },
+  "Sundial": {
+    "NAME": "Đồng hồ Mặt Trời",
+    "FLAVOR": "\"Con người thưở sơ khai bị ám ảnh bởi thời gian nên họ nhìn lên bầu trời để tìm sự dẫn dắt, mong đợi một thứ gì vĩnh cửu.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Mỗi #b",
+      " lần bạn tráo chồng bài bốc, nhận thêm [E] [E] ."
+    ]
+  },
+  "Symbiotic Virus": {
+    "NAME": "Virus cộng sinh",
+    "FLAVOR": "Một chút rắc rối đôi khi đem lại lợi ích lớn...",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, #yGọi #b1 #yHắc #yám."
+    ]
+  },
+  "Test 1": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 2": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 3": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 4": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 5": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      ""
+    ]
+  },
+  "Test 6": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "Test 7": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "Test 8": {
+    "NAME": "",
+    "FLAVOR": "",
+    "DESCRIPTIONS": [
+      ""
+    ]
+  },
+  "The Courier": {
+    "NAME": "Chuột giao hàng",
+    "FLAVOR": "Thú cưng của Thương gia!",
+    "DESCRIPTIONS": [
+      "Thương gia sẽ nhập lại bài, cổ vật, bình thuốc. Tất cả mặt hàng hạ giá #b20%."
+    ]
+  },
+  "The Specimen": {
+    "NAME": "Mẫu vật",
+    "FLAVOR": "\"Thật thú vị! Tôi tìm ra một sinh vật đột biến có đặc tính độc dược rất mạnh. Sẽ giữ lại mẫu vật để phân tích sau.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Khi có kẻ địch chết, chuyển toàn bộ #yĐộc đang có sang một kẻ địch ngẫu nhiên."
+    ]
+  },
+  "Thread and Needle": {
+    "NAME": "Kim và Chỉ",
+    "FLAVOR": "Khi cuộn sợi chỉ ma thuật quanh người, bạn cảm thấy mình cứng cáp hơn.",
+    "DESCRIPTIONS": [
+      "Bắt đầu trận đấu với #b",
+      " #yGiáp #yMạ."
+    ]
+  },
+  "Tingsha": {
+    "NAME": "Tingsha",
+    "FLAVOR": "Âm thanh vang lên từ nhạc cụ này dường như có khả năng vang vọng đến mức gây đau đớn.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn bỏ bài trong lượt của mình, gây #b",
+      " sát thương cho một quân địch ngẫu nhiên."
+    ]
+  },
+  "Tiny Chest": {
+    "NAME": "Rương tí hon",
+    "FLAVOR": "\"Một bản mẫu tuyệt vời.\" - Kiến trúc sư",
+    "DESCRIPTIONS": [
+      "Cứ mỗi #b",
+      " phòng #y? sẽ là một phòng #yKho #ybáu.",
+      ""
+    ]
+  },
+  "Tiny House": {
+    "NAME": "Căn nhà tí hon",
+    "FLAVOR": "\"Một sự áp dụng trường phái kiến trúc thu nhỏ gần như hoàn hảo. Tác phẩm kỳ công nhất của mình, nhưng vẫn chưa xứng tầm.\" - Kiến trúc sư",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, Nhận thêm #b1 bình thuốc. NL Nhận #b",
+      " #yVàng. NL Nâng HP tối đa thêm #b",
+      ". NL Nhận #b1 lá bài. NL Nâng cấp #b1 lá bài ngẫu nhiên.",
+      "Căn nhà tí hon!"
+    ]
+  },
+  "Toolbox": {
+    "NAME": "Hộp dụng cụ",
+    "FLAVOR": "Việc nào cũng có đủ dụng cụ.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, chọn #b1 trong #b3 lá bài Không màu ngẫu nhiên và thêm lá đó vào tay bạn."
+    ]
+  },
+  "Torii": {
+    "NAME": "Torii",
+    "FLAVOR": "Khi cầm chiếc cổng Torii tí hon, bạn cảm thấy bình yên và an toàn trong lòng.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn nhận #b",
+      " sát thương không đỡ được trở xuống, giảm xuống còn #b1."
+    ]
+  },
+  "Tough Bandages": {
+    "NAME": "Băng cứu thương",
+    "FLAVOR": "Mất mát đem lại sức mạnh.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn bỏ bài trong lượt của mình, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "Toxic Egg 2": {
+    "NAME": "Trứng độc",
+    "FLAVOR": "\"Một sự phát hiện tuyệt vời! Có vẻ đây là trứng chưa nở của một sinh vật ma thuật. Không biết cái gì đã tạo ra nó?\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn thêm một lá #yKỹ #ynăng vào bộ bài, #yNâng #ycấp lá bài đó."
+    ]
+  },
+  "Toy Ornithopter": {
+    "NAME": "Máy bay đồ chơi",
+    "FLAVOR": "\"Món đồ chơi này là người bạn đồng hành hoàn hảo cho nhà thám hiểm đơn độc!\"",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn sử dụng bình dược, hồi #b",
+      " HP."
+    ]
+  },
+  "Turnip": {
+    "NAME": "Củ cải",
+    "FLAVOR": "Ăn kèm gừng là ngon nhất.",
+    "DESCRIPTIONS": [
+      "Bạn không còn bị #yMong #ymanh."
+    ]
+  },
+  "Unceasing Top": {
+    "NAME": "Con quay vĩnh cửu",
+    "FLAVOR": "Con quay liên tục xoay một cách dễ dàng như thể bạn đang mơ vậy.",
+    "DESCRIPTIONS": [
+      "Khi bạn không có bài trên tay trong lượt của mình, rút thêm một lá bài."
+    ]
+  },
+  "Vajra": {
+    "NAME": "Kim cang chử",
+    "FLAVOR": "Một cổ vật trang trí được ban cho những chiến binh dành chiến thắng vẻ vang.",
+    "DESCRIPTIONS": [
+      "Bắt đầu trận đấu với #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "Velvet Choker": {
+    "NAME": "Vòng cổ nhung",
+    "FLAVOR": "\"Sức mạnh khủng khiếp, nhưng quá hạn chế.\" - Kublai Vĩ đại",
+    "DESCRIPTIONS": [
+      " khi bắt đầu lượt của bạn. Bạn không thể chơi quá #b",
+      " lá bài một lượt.",
+      "Nhận [E]",
+      "Mình chỉ có thể chơi đến NL #r"
+    ]
+  },
+  "War Paint": {
+    "NAME": "Sơn chiến binh",
+    "FLAVOR": "Trong quá khứ, lính Thiết Giáp thường tạo phòng tuyến bằng sơn phép thuật trước khi tham chiến.",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, #yNâng #ycấp #b",
+      " lá bài #yKỹ #ynăng ngẫu nhiên."
+    ]
+  },
+  "Whetstone": {
+    "NAME": "Đá mài",
+    "FLAVOR": "\"Chân tay không bì được sắt thép.\" - Kublai Vĩ đại",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, #yNâng #ycấp #b",
+      " lá bài #yTấn #ycông ngẫu nhiên."
+    ]
+  },
+  "White Beast Statue": {
+    "NAME": "Tượng thú trắng",
+    "FLAVOR": "Bức tượng nhỏ màu trắng của một sinh vật bạn chưa gặp bao giờ.",
+    "DESCRIPTIONS": [
+      "Bình thuốc luôn xuất hiện trong phần thưởng trận đấu."
+    ]
+  },
+  "Boot": {
+    "NAME": "Chiếc ủng",
+    "FLAVOR": "Khi lên cót, chiếc ủng phình to hơn.",
+    "DESCRIPTIONS": [
+      "Khi bạn gây #b",
+      " sát thương không đỡ được hoặc ít hơn, tăng sát thương lên #b5."
+    ]
+  },
+  "Mark of the Bloom": {
+    "NAME": "Vết tích nở hoa",
+    "FLAVOR": "Ở Nơi xa xôi, suy nghĩ và thực tế là một.",
+    "DESCRIPTIONS": [
+      "Bạn không hồi máu được nữa."
+    ]
+  },
+  "Busted Crown": {
+    "NAME": "Vương miện sứt mẻ",
+    "FLAVOR": "Vương miện của Nhà vô địch... hay chỉ là bản sao mờ nhạt?",
+    "DESCRIPTIONS": [
+      " khi bắt đầu lượt của bạn. Bài thưởng sau đó được chọn ít hơn #b2 lá.",
+      "Nhận [E]"
+    ]
+  },
+  "Incense Burner": {
+    "NAME": "Lư hương",
+    "FLAVOR": "Làn khói bao bọc người sở hữu với linh hồn của những người bị hỏa thiêu.",
+    "DESCRIPTIONS": [
+      "Mỗi #b6 lượt, nhận #b1 #yVô #yhình."
+    ]
+  },
+  "Empty Cage": {
+    "NAME": "Lồng rỗng",
+    "FLAVOR": "\"Thật kỳ quặc khi nhốt chính thứ ngươi tôn thờ.\" - Ranwid",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, hủy #b2 lá khỏi bộ bài của bạn.",
+      "Chọn 2 lá bài để hủy."
+    ]
+  },
+  "Fusion Hammer": {
+    "NAME": "Búa Hợp thể",
+    "FLAVOR": "Một khi đã cầm thì không thể buông ra.",
+    "DESCRIPTIONS": [
+      " khi bắt đầu lượt của bạn. Bạn không thể #yRèn tại Khu nghỉ ngơi nữa.",
+      "Nhận [E]"
+    ]
+  },
+  "Coffee Dripper": {
+    "NAME": "Phin cà phê",
+    "FLAVOR": "\"Tuyệt, thêm một cốc nữa. Làm việc nào. Làm việc nào!\" - Kiến trúc sư",
+    "DESCRIPTIONS": [
+      " khi bắt đầu lượt của bạn. Bạn không thể #yNghỉ tại Khu nghỉ ngơi nữa.",
+      "Nhận [E]"
+    ]
+  },
+  "SsserpentHead": {
+    "NAME": "Đầu Rrrắn",
+    "FLAVOR": "Sống thỏa mãn nhất là khi có thể mua mọi thứ!",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn vào phòng #y?, nhận #b",
+      " #yVàng."
+    ]
+  },
+  "MutagenicStrength": {
+    "NAME": "Sức mạnh đột biến",
+    "FLAVOR": "\"Hiệu lực không lâu dài, chỉ kích hoạt khi đối tượng gặp nguy hiểm.\" - Vô danh",
+    "DESCRIPTIONS": [
+      "Bắt đầu trận đấu với #b",
+      " #ySức #ymạnh. Vào cuối lượt đầu tiên của bạn, mất #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "FaceOfCleric": {
+    "NAME": "Mặt nạ Linh mục",
+    "FLAVOR": "Mọi người đều yêu Linh mục.",
+    "DESCRIPTIONS": [
+      "Khi kết thúc trận đấu, tăng HP tối đa của bạn thêm #b1."
+    ]
+  },
+  "NlothsMask": {
+    "NAME": "Khuôn mặt đói khát của N'loth",
+    "FLAVOR": "Bạn thấy đói.",
+    "DESCRIPTIONS": [
+      "Chiếc rương không phải của Trùm tiếp theo sẽ trống rỗng.",
+      ""
+    ]
+  },
+  "GremlinMask": {
+    "NAME": "Mặt nạ Gremlin",
+    "FLAVOR": "Chạy thôi.",
+    "DESCRIPTIONS": [
+      "Bắt đầu mỗi trận đấu với #b1 #yYếu."
+    ]
+  },
+  "CultistMask": {
+    "NAME": "Mặt nạ cuồng tín",
+    "FLAVOR": "Một cánh chim trong Đàn!",
+    "DESCRIPTIONS": [
+      "Bạn cảm thấy lắm lời hơn.",
+      "@QUÁC!@ NL @QUÁÁÁC@"
+    ]
+  },
+  "TheAbacus": {
+    "NAME": "Bàn tính",
+    "FLAVOR": "\"Một...Hai...Ba...\"",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn tráo chồng bài bốc, nhận thêm #b",
+      " #yGiáp."
+    ]
+  },
+  "DollysMirror": {
+    "NAME": "Gương của Dolly",
+    "FLAVOR": "\"Mình trông ngố quá.\"",
+    "DESCRIPTIONS": [
+      "Khi nhặt được, sao chép một lá bài trong bộ của bạn.",
+      "Chọn 1 lá để sao chép."
+    ]
+  },
+  "ClockworkSouvenir": {
+    "NAME": "Bánh răng lưu niệm",
+    "FLAVOR": "\"Thật nhiều máy móc phức tạp.\"",
+    "DESCRIPTIONS": [
+      "Bắt đầu mỗi trận đấu với #b1 #yThánh #ytích."
+    ]
+  },
+  "MealTicket": {
+    "NAME": "Phiếu ăn",
+    "FLAVOR": "\"Miễn phí thịt viên mỗi lần đến ăn!\"",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn vào cửa hàng, hồi #b",
+      " HP."
+    ]
+  },
+  "TwistedFunnel": {
+    "NAME": "Phễu xoắn",
+    "FLAVOR": "\"Tôi sẽ không dùng nó để uống nước đâu.\"",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu mỗi trận đấu, gây #b4 #yĐộc cho tất cả quân địch."
+    ]
+  },
+  "HandDrill": {
+    "NAME": "Khoan tay",
+    "FLAVOR": "\"Vòng xoáy rất nguy hiểm.\"",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn phá #yGiáp của quân địch, gây #b2 #ySơ #yhở."
+    ]
+  },
+  "HoveringKite": {
+    "NAME": "Cánh diều lơ lửng",
+    "FLAVOR": "Cánh diều lửng lơ quanh bạn khi chiến đấu, bay lên bằng\n nguồn năng lượng bí ẩn.",
+    "DESCRIPTIONS": [
+      "Nhận [E]  khi bạn bỏ bài lần đầu tiên mỗi lượt."
+    ]
+  },
+  "Sling": {
+    "NAME": "Ná quả cảm",
+    "FLAVOR": "\"Công cụ hữu dụng để xử lý những đối thủ mạnh.\"",
+    "DESCRIPTIONS": [
+      "Bắt đầu trận đấu Quái tinh anh với #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "OrangePellets": {
+    "NAME": "Viên cam",
+    "FLAVOR": "\"Làm từ nhiều loại nấm trong Tháp Xoáy, thuốc có thể trị bách bệnh.\"",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi lá #yNăng #ylực, #yTấn #ycông, và #yKỹ #ynăng trong cùng một lượt, loại bỏ tất cả trạng thái bất lợi."
+    ]
+  },
+  "WristBlade": {
+    "NAME": "Dao ẩn",
+    "FLAVOR": "Rất tiện cho việc ám sát.",
+    "DESCRIPTIONS": [
+      "Những lá bài #yTấn #ycông tốn #b0 gây thêm #b3 sát thương."
+    ]
+  },
+  "StoneCalendar": {
+    "NAME": "Lịch Đá",
+    "FLAVOR": "Không thể đoán được dòng chảy thời gian trong Tháp Xoáy.",
+    "DESCRIPTIONS": [
+      "Ở cuối lượt #b",
+      ", gây #b",
+      " sát thương lên TẤT CẢ các quân địch."
+    ]
+  },
+  "Nunchaku": {
+    "NAME": "Nhị khúc côn",
+    "FLAVOR": "Dụng cụ tập luyện tốt. Cải thiện tư thế và sự dẻo dai của người dùng.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi #b",
+      " lá bài #yTấn #ycông, nhận [E] ."
+    ]
+  },
+  "Brimstone": {
+    "NAME": "Diêm sinh",
+    "FLAVOR": "Tỏa nhiệt khủng khiếp.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, nhận #b",
+      " #ySức #ymạnh và TẤT CẢ quân địch nhận #b",
+      " #ySức #ymạnh."
+    ]
+  },
+  "PreservedInsect": {
+    "NAME": "Tiêu bản côn trùng",
+    "FLAVOR": "Loài côn trùng này tỏa ra khí thu nhỏ mà chỉ nhắm vào những kẻ địch lớn.",
+    "DESCRIPTIONS": [
+      "Quái tinh anh trong trận đấu bị giảm #b",
+      "% HP."
+    ]
+  },
+  "Pocketwatch": {
+    "NAME": "Đồng hồ quả quýt",
+    "FLAVOR": "Có vẻ kim đồng hồ bị kẹt ở vị trí 3 giờ.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi từ #b3 lá bài trở xuống trong lượt, rút thêm #b3 lá vào lượt sau."
+    ]
+  },
+  "FossilizedHelix": {
+    "NAME": "Vỏ ốc hóa thạch",
+    "FLAVOR": "Có vẻ bất diệt, bạn tự hỏi liệu nó thuộc về sinh vật nào.",
+    "DESCRIPTIONS": [
+      "Ngăn chặn lần đầu tiên bạn mất HP mỗi trận đấu."
+    ]
+  },
+  "PrismaticShard": {
+    "NAME": "Mảnh lăng kính",
+    "FLAVOR": "Khi nhìn qua lăng kính, bạn có thể thấy những góc nhìn hoàn toàn mới.",
+    "DESCRIPTIONS": [
+      "Phần thưởng trận đấu giờ bao gồm bài Không màu và bài màu khác."
+    ]
+  },
+  "WarpedTongs": {
+    "NAME": "Kìm cong",
+    "FLAVOR": "Chiếc kìm bị nguyền này phát ra khát khao mãnh liệt được trở về chốn ban đầu.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt của bạn, #yNâng #ycấp một lá bài ngẫu nhiên trong tay bạn cho đến hết trận đấu."
+    ]
+  },
+  "WingedGreaves": {
+    "NAME": "Giày bay",
+    "FLAVOR": "Rất ngầu.",
+    "DESCRIPTIONS": [
+      "Bạn có #b3 lần bỏ qua tuyến đường hiện tại khi bạn chọn phòng ở tầng tiếp theo."
+    ]
+  },
+  "MawBank": {
+    "NAME": "Lợn đất hàm cá mập",
+    "FLAVOR": "Bằng cách nào đó vẫn được ưa chuộng, mặc dù có người vẫn bị hàm cá mập tấn công thường xuyên.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn leo thêm một tầng, nhận #b",
+      " #yVàng. Mất tác dụng khi tiêu #yVàng tại cửa hàng.",
+      "Cổ vật này đã sử dụng hết."
+    ]
+  },
+  "Melange": {
+    "NAME": "Dăm kết",
+    "FLAVOR": "Thứ cát bí ẩn không rõ nguồn gốc. Có mùi quế.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn tráo chồng bài bốc, #yBói #b",
+      " lá."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Nước tinh khiết",
+    "FLAVOR": "Được lọc qua cát mịn và không có tạp chất.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu trận đấu, thêm một lá #yPhép #yMàu vào tay."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Nước thánh",
+    "FLAVOR": "Góp nhặt được từ một thời kỳ trước khi có Tháp Xoáy.",
+    "DESCRIPTIONS": [
+      "Thay thế #pNước #ptinh #pkhiết. Khi bắt đầu trận đấu, thêm 3 lá #yPhép #yMàu vào tay."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Vỏ cây linh thiêng",
+    "FLAVOR": "Miếng vỏ cây được tương truyền là có nguồn gốc từ cây Thế giới.",
+    "DESCRIPTIONS": [
+      "Gấp đôi hiệu quả của bình dược."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Lọ mực",
+    "FLAVOR": "Mỗi khi dùng hết, cái lọ dường như tự đong đầy bằng màu mực khác.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi #b10 lá, bốc #b1 lá."
+    ]
+  },
+  "Yin": {
+    "NAME": "DEPRECATED Yin",
+    "FLAVOR": "You cannot have light without dark. Or can you?",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, gain #b1 temporary #yStrength."
+    ]
+  },
+  "Yang": {
+    "NAME": "Đối ngẫu",
+    "FLAVOR": "\"Và rồi mặt trời đã vĩnh viễn bị dập tắt, như thể bị những tấm màn che phủ.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn chơi một lá bài #yTấn #ycông, tạm thời nhận #b1 #yLinh #yhoạt."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Xích ngưu",
+    "FLAVOR": "\"Môôôô~\"",
+    "DESCRIPTIONS": [
+      "Lá Tấn công đầu tiên của bạn vào mỗi trận đấu gây thêm #b",
+      " sát thương."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Sen tím",
+    "FLAVOR": "Cổ thư ghi chép rằng trên bề mặt của \"hồ phép thuật\" đầy rẫy những cây hoa này.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn thoát khỏi thế #yTĩnh, nhận thêm một [E] ."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Mề đay giọt lệ",
+    "FLAVOR": "Người chủ mù quáng, trong còn chưa mở.",
+    "DESCRIPTIONS": [
+      "Bắt đầu mỗi trận đấu trong thế #yTĩnh."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Cá gốm",
+    "FLAVOR": "Được sơn một cách tỉ mỉ, những con cá này được tương truyền sẽ đem lại nhiều của cải.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn thêm một lá vào bộ bài, nhận #b",
+      " #yVàng."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Vòng cổ của Chủ nô",
+    "FLAVOR": "Sợi dây xích hoen gỉ khốn khổ.",
+    "DESCRIPTIONS": [
+      "Trong trận đấu với Trùm và Quái Tinh anh, nhận [E] khi bắt đầu lượt của bạn."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Hình nộm tập đánh",
+    "FLAVOR": "Nhìn nó tã lắm rồi.",
+    "DESCRIPTIONS": [
+      "Những lá bài có từ \"Đánh\" gây thêm #b",
+      " sát thương."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Móc cài áo choàng",
+    "FLAVOR": "Thiết kế đơn giản nhưng chắc chắn.",
+    "DESCRIPTIONS": [
+      "Khi kết thúc lượt của bạn, nhận #b",
+      " #yGiáp cho mỗi lá bài trên tay."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Thanh vonfram",
+    "FLAVOR": "Vô cùng nặng.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn mất HP, giảm bớt #b",
+      " sát thương phải nhận."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Bản giằng",
+    "FLAVOR": "Cầm trong tay thật là thoải mái. Cái này dùng làm gì nhỉ?",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt thứ hai của bạn, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Bánh lái của thuyền trưởng",
+    "FLAVOR": "Món trang sức bằng gỗ được khắc bằng sự chính xác rất tinh xảo. Có một cái tên khắc trên bánh lái nhưng bằng một ngôn ngữ ngoại lai.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt thứ 3 của bạn, nhận #b",
+      " #yGiáp."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Kim Nhãn",
+    "FLAVOR": "Nhìn thấu tâm can của những kẻ đứng gần, dự đoán được những hành động chúng sắp làm.",
+    "DESCRIPTIONS": [
+      "Mỗi khi bạn #yBói, #yBói thêm #b",
+      " lá bài."
+    ]
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "Âm thanh từ chiếc trống nhỏ giữ cho đầu óc bạn tỉnh táo, mở ra một con đường đi tiếp.",
+    "DESCRIPTIONS": [
+      "Khi bắt đầu lượt, nhận #b",
+      " #yThần #ychú."
+    ]
+  }
+}

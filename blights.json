@@ -1,0 +1,98 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Giáo tai ương",
+    "DESCRIPTION": [
+      "Quân địch gây thêm #b",
+      "% sát thương."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Khiên tai ương",
+    "DESCRIPTION": [
+      "Quân địch có thêm #b",
+      "% HP."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Mê Cung Thời Gian",
+    "DESCRIPTION": [
+      "Bạn không thể chơi quá #b",
+      " lá bài một lượt.",
+      "Mình chỉ có thể chơi đến NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Bóp méo tâm can",
+    "DESCRIPTION": [
+      "Khi kết thúc lượt của bạn, thêm #b",
+      " lá bài Trạng thái ngẫu nhiên vào trên cùng chồng bài rút của bạn.",
+      ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Kẻ bị nguyền rủa",
+    "DESCRIPTION": [
+      "Mỗi khi bạn tiêu diệt một con Trùm, nhận #b",
+      " lá bài #yNguyền ngẫu nhiên.",
+      ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Khinh suất",
+    "DESCRIPTION": [
+      "Bốc ít hơn #b",
+      " lá bài một lượt.",
+      ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Đại dịch giả mạo",
+    "DESCRIPTION": [
+      "Phòng kho báu trong các hồi sau bị thay thế bởi quái tinh anh. Quái tinh anh không rơi ra cổ vật nữa."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Rọ mõm",
+    "DESCRIPTION": [
+      "Bạn không thể tăng HP tối đa nữa. Hồi máu giảm còn một nửa."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Chiếc cúp khủng khiếp",
+    "DESCRIPTION": [
+      "Khi nhặt được, nhận #b",
+      " #rKiêu #rcăng.",
+      "Lòng kiêu hãnh của bạn bị bóp méo..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Quả sầu riêng",
+    "DESCRIPTION": [
+      "Mất #b",
+      "% HP tối đa của bạn."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Tinh chất hư không",
+    "DESCRIPTION": [
+      "Nhận #b ít hơn",
+      " [E] khi bắt đầu mỗi lượt."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Yêu hồn",
+    "DESCRIPTION": [
+      "Quân địch bắt đầu trận đấu với #b",
+      " #yVô #yhình."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Biến đổi cổ đại",
+    "DESCRIPTION": [
+      "Quân địch bắt đầu trận đấu với #b",
+      " #yThánh #ytích, #b",
+      " #yGiáp #yMạ, và #b",
+      " #yTái #ytạo."
+    ]
+  }
+}
